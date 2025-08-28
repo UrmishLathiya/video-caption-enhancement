@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Model files (too large)
+*.pt
+*.pth
+*.bin
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Audio files
+*.wav
+*.mp3
+
+# Environment variables
+.env
