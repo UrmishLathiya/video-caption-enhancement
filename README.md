@@ -345,4 +345,4 @@ Built for assessment purposes. Individual components may have their own licenses
 
 ---
 
-**Built with ❤️ for technical assessment - Ready for immediate demonstration!**
+**Built with ❤️ for technical assessment  by Urmish Lathiya- Ready for immediate demonstration!**
